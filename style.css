@@ -1,0 +1,554 @@
+.container{
+ width: 1440px;
+ height: 5109px;
+  background-color:whitesmoke;
+  margin: auto;
+}
+.header{
+    position: absolute;
+    /* background-color: brown; */
+    width: 1435px;
+    height:53px;
+}
+.ourHeaders{
+    display: flex;
+    margin-left: 381px;
+    margin-top: -40px;
+    gap:40px;
+}
+.login{
+    width: 96px;
+    height: 52px;
+    border-radius: 100px;
+    border: 1px solid #000;
+    margin-left:972px;
+    margin-top: -56px;
+ }
+ .loginText{
+    padding-left: 21px;
+    color: #000;
+width: 47px;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+ }
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 189px;
+    height: 50px;
+    border-radius: 100px;
+background: #000;  
+margin-left: 1118px;
+margin-top: -53px;
+}
+.buttonText{
+    color: #FFF;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+width: 142px;
+}
+.talkText{
+    color: #000;
+} 
+.blockOne{
+    display: flex;
+margin-left:145px;
+margin-top:77px;
+ width: 1150px;
+ height: 576px;
+ /* background-color: darkmagenta; */
+}
+.getYour{
+    margin-top:27px;
+    color: #000;
+    height: 166px;
+    /* background-color: cadetblue; */
+    margin-top:30px;
+    width: 483px;
+    font-size: 77px;
+    font-weight: 700;
+    line-height: 82.8px;
+}
+.yourtext{
+    width: 476px;
+   height: 92px;
+   color: #000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.6px; /* 153% */
+}
+.oneB{
+    width: 483px;
+    height: 504px;
+    /* background-color: deepskyblue; */
+}
+.yourtext2{
+    color: #000;
+width: 209px;
+height: 24px;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; 
+margin-top: 30px;
+}
+.talkToUs{
+    width: 159px;
+height: 61px;
+border-radius: 100px;
+background-color: #000;
+}
+.talkToUsText{
+    color: #FFF;
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+width: 98px;
+padding-top: 16px;
+padding-left:35px;
+}
+.blockOneImage{
+    width: 667px;
+    height: 517px;
+   
+}
+.blockTwo{
+    display: flex;
+    width: 1150px;
+height: 507px;
+/* background-color: greenyellow; */
+margin-left:145px;
+margin-top: 54px;
+}
+.blockTwoImage{
+    width: 483px;
+height: 280px;
+margin-top: 108px;
+
+}
+.blockTwoText{
+    color: #000;
+font-family: Roboto;
+font-size: 55px;
+font-style: normal;
+font-weight: 700;
+height: 173px;
+width: 443px;
+margin-left: 149PX;
+}
+.blockTwoText2{
+    position: absolute;
+    color: #000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    width: 515px;
+    height: 123px;
+    margin-top: 300px;
+  margin-left: -439px;
+}
+.blockThree{
+width: 1150px;
+height: 737.297px;
+/* background-color: crimson; */
+margin-left:145px;
+margin-top: 54px;
+}
+.blockThreeText{
+    color: #000;
+width: 355px;
+font-size: 58px;
+font-style: normal;
+font-weight: 700;
+line-height: 57.6px;
+padding-top: 33px;
+}
+.inBlockThree{
+display: flex;
+width: 1035px;
+height: 396px;
+padding: 63px 0.016px 0px 0px;
+justify-content: center;
+align-items: flex-start;
+gap: 54.063px;
+/* background-color: green; */
+}
+.inOne{
+    width: 308.953px;
+    height: 333.109px;
+    /* background-color: hotpink; */
+}
+.inTwo{
+ width: 308.953px;
+ height: 333.109px;
+ /* background-color: dodgerblue; */
+}
+.inThree{
+    width: 308.953px;
+    height: 333.109px;
+    /* background-color:lightseagreen; */
+}
+.inOneText{
+    color: #000;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+   width: 235px;
+}
+.inTwoText{
+    color: #000;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    width: 192px;
+}
+.inThreeText{
+    color: #000;
+    width: 295px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+}
+.inOneText2{
+    width: 295px;
+    height: 96px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+}
+.inTwoText2{
+    width: 292px;
+    height: 72px;
+    color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+.inThreeText2{
+    width: 272px;
+    height: 96px;
+    color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+} 
+.Discover{
+    width: 235px;
+    height: 50px;
+    border-radius: 100px;
+    background: #F7B2B7;
+}
+.DiscoverText{
+    width: 174px;
+    color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 25.2px; 
+padding-left: 30px;
+padding-top: 10px
+}
+.blockFour{
+  width: 1440px;
+  height: 705px;
+  background: #FDECED;
+}
+.plans{
+ color: #000;
+font-family: Roboto;
+font-size: 58px;
+font-style: normal;
+font-weight: 400;
+width: 557px;
+height: 58px;
+margin-left: 145px;
+padding-top: 88px;
+}
+
+.inBlockFour{
+    display: flex;
+    width: 1035px;
+    height: 412px;
+    padding: 63px 0.016px 0px 0px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 54.063px;
+    /* background-color: green; */
+    margin-left: 184px;
+    }
+    .inOneFour{
+        width: 308.953px;
+        height:412px;
+        /* background-color: hotpink; */
+    }
+    .inTwoFour{
+     width: 308.953px;
+     height:412px;
+     /* background-color: dodgerblue; */
+    }
+    .inThreeFour{
+        width: 308.953px;
+        height:412px;
+        /* background-color:lightseagreen; */
+    }
+    .inOneFourText{
+        color: #000;
+        font-family: Roboto;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 700;
+       width: 253px;
+    }
+    .inTwoFourText{
+        color: #000;
+        font-family: Roboto;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 700;
+        width:200px;
+    }
+    .inThreeFourText{
+        color: #000;
+        width: 295px;
+        font-family: Roboto;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 36px;
+    }
+    .inOneFourText2{
+        width: 274px;
+        height: 96px;
+        color: #000;
+        font-family: Roboto;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px; 
+    }
+    .inTwoFourText2{
+        width: 292px;
+        height: 72px;
+        color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    }
+    .inThreeFourText2{
+        width: 272px;
+        height: 96px;
+        color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+} 
+.blockFive{
+    width: 1035px;
+height: 450px;
+/* background-color: gold; */
+margin-left: 185px;
+}
+.blockFiveText{
+        color: #000;
+    height: 72px;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    width: 236px;
+    padding-top: 90px;
+}
+.images{
+    display: flex;
+    /* background-color: bisque; */
+  
+   margin-left: 235px;
+    margin-top: -102px;
+}
+.blockSix{
+  width: 1150px;
+ height: 636.828px;
+/* background-color: blueviolet; */
+margin-left:138px;
+}
+.blockSixText{
+    color: #000;
+    font-family: Roboto;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+width: 343px;
+margin-top: 100px;
+}
+.inblockSix{
+    display: flex;
+    /* background-color: yellow; */
+    gap:296px;
+}
+.blockSixtext2{
+    color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+width: 547px;
+margin-top: -226px;
+}
+.viewHub{
+    width: 140px;
+    height: 50px;
+    border-radius: 100px;
+    background: #F7B2B7;  
+    margin-top: 60px;
+}
+.viewText{
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25.2px;
+    width: 79px;
+    padding-top: 10px;
+    padding-left: 26px;
+}
+.blockSeven{
+    display: flex;
+ width: 1440px;
+height: 499px;
+/* background-color: blanchedalmond; */
+}
+.inBlockSeven{
+    width: 1150px;
+height: 283px;
+background: #8BD4D6;
+margin-left: 140px;
+margin-top: 95px;
+}
+.inBlockSevenText{
+    color: #000;
+font-family: Roboto;
+font-size: 46px;
+font-style: normal;
+font-weight: 700;
+width: 615px;
+margin-left: 96px;
+margin-top: 66px;
+}
+.inBlockSevenText2{
+    color: #000;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    width: 234px;
+    margin-left: 96px;
+    margin-top: -37px;
+}
+.getStarted{
+    width: 159px;
+    height: 50px;
+    border-radius: 100px;
+    background: #000;
+    margin-left: 860px;
+    margin-top: -76px;
+}
+.getText{
+    color: #FFF;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+width: 98px;
+padding-left: 36px;
+padding-top: 13px;
+}
+.blockEigt{
+    display: flex;
+ width: 1440px;
+ height: 631px;
+ background-color:#302E3F;
+}
+.inblockEigt{
+    width: 1150px;
+height: 540.781px;
+background-color: #302E3F;
+margin-left: 137px;
+margin-top: 30px;
+margin-top: 54px;
+}
+.inblockEigtHeader{
+    width: 1150px;
+height: 55px;
+background-color:#302E3F;
+}
+.eightText{
+    color: #FFF;
+width: 209px;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+height: 36px;
+margin-left: 71px;
+margin-top: -37px;
+}
+.windows{
+    display: flex;
+    width: 1150px;
+    height: 200.391px;
+    /* background-color: navy; */
+    margin-top:30px;
+    gap:128px;
+    justify-content: center;
+    color: #C5E9EA;
+}
+.reads{
+    color: #FFF;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+width: 109px;
+}
+.windowOne{
+    color:#C5E9EA ;
+}
+.windowTwo{
+    display: inline-flex;
+    height: 21px;
+    padding-right: 0px;
+    align-items: flex-start;
+    gap: 40px;
+    color: #C5E9EA;
+    margin-left: 102px;
+    margin-top: 30px;
+
+}
+.acca{
+    margin-left: 310px;
+    margin-top: -37px;
+}
